@@ -25,9 +25,9 @@ setup(
             "research-assistant=smart_research_assistant.main:main",
         ],
     },
-    author="prince katiyar ",
-    author_email="princekatiyar@gmail.com",
+    author="Vikas Jangid", 
+    author_email="vikasjangidmk@gmail.com",
     description="A Smart Research Assistant using LangChain, LangGraph, and LangSmith",
     keywords="ai, research, langchain, langgraph, langsmith",
-    python_requires=">=3.9",
+    python_requires=">=3.10",
 )

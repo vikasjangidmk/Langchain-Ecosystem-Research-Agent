@@ -25,6 +25,6 @@ pydantic>=2.5.2
 typing-extensions>=4.8.0
 tqdm>=4.66.1 
 
-# ##
+# FastAPI and SSE
 # pip install langserve fastapi uvicorn
 # pip install sse_starlette
